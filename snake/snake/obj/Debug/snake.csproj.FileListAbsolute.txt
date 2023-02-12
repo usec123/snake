@@ -1,0 +1,14 @@
+C:\Users\Marci\C#_projects\snake\snake\bin\Debug\snake.exe.config
+C:\Users\Marci\C#_projects\snake\snake\bin\Debug\snake.exe
+C:\Users\Marci\C#_projects\snake\snake\bin\Debug\snake.pdb
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.csproj.AssemblyReference.cache
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.Properties.Resources.resources
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.csproj.GenerateResource.cache
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.csproj.CoreCompileInputs.cache
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.exe
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.pdb
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.MainForm.resources
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.ScoreboardForm.resources
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.DifficultySelectForm.resources
+C:\Users\Marci\C#_projects\snake\snake\obj\Debug\snake.GameForm.resources
